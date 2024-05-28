@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:georss="http://www.georss.org/georss">
+  <channel>
+    <title>Road Safety and Service Delivery solutions</title>
+    <link>http://imbobo.org.za</link>
+    <description>Initiatives and Tactical Products and Services updates from iMbobo APP NPC.</description>
+    <language>en-us</language>
+    <item>
+		<title>Mine Contractors Health and Safety Platform</title>
+		<email>info@imbobo.org.za</email>
+		<website>http://imbobo.org.za?p=mine-contractor-safety-and-health-certificate</website>
+	</item>
+	<item>
+		<title>Fleet Management Portal</title>
+		<email>info@imbobo.org.za</email>
+		<website>http://imbobo.org.za?p=fleet-management-portal</website>
+	</item>
+	<item>
+		<title>IoT TLPC Project</title>
+		<email>info@imbobo.org.za</email>
+		<website>http://imbobo.org.za?p=ovh-traffic-lights-power-blackout-project</website>
+	</item>
+	<item>
+		<title>SoG for Ward Councillors</title>
+		<email>info@imbobo.org.za</email>
+		<website>http://imbobo.org.za?p=councillor-school-of-governance</website>
+	</item>
+	<item>
+		<title>Smart Cities and Industry 4.0 Handbook</title>
+		<email>info@imbobo.org.za</email>
+		<website>http://imbobo.org.za?p=smart-cities-industry-4-0-mines-municipalities-handbook</website>
+	</item>
+	<item>
+		<title>Smart AARTO System</title>
+		<email>info@imbobo.org.za</email>
+		<website>http://imbobo.org.za?p=aarto-01-infringement-notice-demerit-system-4ir-aarto-system</website>
+	</item>
+	<item>
+		<title>4IR AARTO System</title>
+		<email>info@imbobo.org.za</email>
+		<website>http://imbobo.org.za?p=aarto-01-infringement-notice-demerit-system-4ir-aarto-system</website>
+	</item>
+	<item>
+		<title>Integration</title>
+		<email>info@imbobo.org.za</email>
+		<website>http://imbobo.org.za?p=developers</website>
+	</item>
+  </channel>
+</rss>

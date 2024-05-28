@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+  <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+	<channel>
+		<title>iMbobo App Pothole Report</title>
+		<link>http://imbobo.org.za/rss/</link>
+		<atom:link href="http://imbobo.org.za/rss/pothole-reports-feed.rss" rel="self" type="application/rss+xml"/>
+		<description>Number of potholes per municipal entries</description>
+		<potholes>63500</potholes>
+		<responses>950</responses>
+		<copyright>2021 imbobo.rg.za All rights reserved</copyright>
+		<lastBuildDate>Thu, 04 Nov 2021 00:25:48 GMT</lastBuildDate>
+		<item>
+			<municipality>City of Johannesburg Metropolitan Municipality</municipality>
+			<potholes>3500</potholes>
+			<responses>50</responses>
+			<link>http://imbobo.org.za/?p=rss-pothole-reports-feed</link>
+			<guid isPermaLink="false">Platform Status update at: Thu, 04 Nov 2021 00:25:48 GMT</guid>
+			<description>Road safety arround City of Johannesburg Metropolitan Municipality seems to be reasonable.</description>
+			<pubDate>Thu, 04 Nov 2021 00:25:48 GMT</pubDate>
+		</item>
+	</channel>
+</rss>
+  

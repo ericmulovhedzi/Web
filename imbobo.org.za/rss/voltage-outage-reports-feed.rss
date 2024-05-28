@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+
+  <channel>
+  	<title>iMbobo App Voltage Outage Report</title>
+  	<link>http://imbobo.org.za/rss/</link>
+  	<atom:link href="http://imbobo.org.za/rss/voltage-outage-reports-feed.rss" rel="self" type="application/rss+xml" />
+  	<description>Status updates for iMbobo App Service Response Time</description>
+  	<lastBuildDate>Thu, 04 Nov 2021 00:25:48 GMT</lastBuildDate>
+	<item>
+		<municipality>City of Johannesburg Metropolitan Municipality</municipality>
+		<streetIntersection>42 Smit Street</streetIntersection>
+		<gpsLocLat>-26.195246</gpsLocLat>
+		<gpsLocLon>28.034088</gpsLocLon>
+		<link>http://imbobo.org.za/?p=rss-voltage-outage-reports-feed</link>
+		<guid isPermaLink="false">Platform Status update at: Thu, 04 Nov 2021 00:25:48 GMT</guid>
+		<description>Traffic lights around this intersection is mostly out of order because of power blackouts.</description>
+		<pubDate>Thu, 04 Nov 2021 00:25:48 GMT</pubDate>
+	</item>
+  </channel>
+
+  </rss>
+  

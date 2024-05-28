@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+
+  <channel>
+  	<title>iMbobo App Service Status</title>
+  	<link>http://imbobo.org.za/rss/</link>
+  	<atom:link href="http://imbobo.org.za/rss/outage-events-feed.rss" rel="self" type="application/rss+xml" />
+  	<description>Status updates for iMbobo App Service Response Time</description>
+  	<lastBuildDate>Thu, 04 Nov 2021 00:25:48 GMT</lastBuildDate>
+  	<item>
+		<title>[Resolved]: Platform Status</title>
+		<link>"http://imbobo.org.za/rss/outage-events-feed.rss</link>
+		<guid isPermaLink="false">Platform Status update at: Thu, 04 Nov 2021 00:25:48 GMT</guid>
+		<description>This issue should now be resolved. Thank you for your patience.</description>
+		<responseTime>169</responseTime>
+		<pubDate>Thu, 04 Nov 2021 00:25:48 GMT</pubDate>
+	</item>
+	<item>
+		<title>[Resolved]: Platform Status</title>
+		<link>"http://imbobo.org.za/rss/outage-events-feed.rss</link>
+		<guid isPermaLink="false">Platform Status update at: Thu, 04 Nov 2021 00:25:48 GMT</guid>
+		<description>This issue should now be resolved. Thank you for your patience.</description>
+		<responseTime>669</responseTime>
+		<pubDate>Thu, 04 Nov 2021 00:25:48 GMT</pubDate>
+	</item>
+	<item>
+		<title>[Resolved]: Platform Status</title>
+		<link>"http://imbobo.org.za/rss/outage-events-feed.rss</link>
+		<guid isPermaLink="false">Platform Status update at: Thu, 04 Nov 2021 00:25:48 GMT</guid>
+		<description>This issue should now be resolved. Thank you for your patience.</description>
+		<responseTime>459</responseTime>
+		<pubDate>Thu, 04 Nov 2021 00:25:48 GMT</pubDate>
+	</item>
+	<item>
+		<title>[Resolved]: Platform Status</title>
+		<link>"http://imbobo.org.za/rss/outage-events-feed.rss</link>
+		<guid isPermaLink="false">Platform Status update at: Thu, 04 Nov 2021 00:25:48 GMT</guid>
+		<description>This issue should now be resolved. Thank you for your patience.</description>
+		<responseTime>489</responseTime>
+		<pubDate>Thu, 04 Nov 2021 00:25:48 GMT</pubDate>
+	</item>
+	<item>
+		<title>[Resolved]: Platform Status</title>
+		<link>"http://imbobo.org.za/rss/outage-events-feed.rss</link>
+		<guid isPermaLink="false">Platform Status update at: Thu, 04 Nov 2021 00:25:48 GMT</guid>
+		<description>This issue should now be resolved. Thank you for your patience.</description>
+		<responseTime>690</responseTime>
+		<pubDate>Thu, 04 Nov 2021 00:25:48 GMT</pubDate>
+	</item>
+	<item>
+		<title>[Resolved]: Platform Status</title>
+		<link>"http://imbobo.org.za/rss/outage-events-feed.rss</link>
+		<guid isPermaLink="false">Platform Status update at: Thu, 04 Nov 2021 00:25:48 GMT</guid>
+		<description>This issue should now be resolved. Thank you for your patience.</description>
+		<responseTime>500</responseTime>
+		<pubDate>Thu, 04 Nov 2021 00:25:48 GMT</pubDate>
+	</item>
+	<item>
+		<title>[Resolved]: Platform Status</title>
+		<link>"http://imbobo.org.za/rss/outage-events-feed.rss</link>
+		<guid isPermaLink="false">Platform Status update at: Thu, 04 Nov 2021 00:25:48 GMT</guid>
+		<description>This issue should now be resolved. Thank you for your patience.</description>
+		<responseTime>739</responseTime>
+		<pubDate>Thu, 04 Nov 2021 00:25:48 GMT</pubDate>
+	</item>
+	<item>
+		<title>[Resolved]: Platform Status</title>
+		<link>"http://imbobo.org.za/rss/outage-events-feed.rss</link>
+		<guid isPermaLink="false">Platform Status update at: Thu, 04 Nov 2021 00:25:48 GMT</guid>
+		<description>This issue should now be resolved. Thank you for your patience.</description>
+		<responseTime>290</responseTime>
+		<pubDate>Thu, 04 Nov 2021 00:25:48 GMT</pubDate>
+	</item>
+	<item>
+		<title>[Resolved]: Platform Status</title>
+		<link>"http://imbobo.org.za/rss/outage-events-feed.rss</link>
+		<guid isPermaLink="false">Platform Status update at: Thu, 04 Nov 2021 00:25:48 GMT</guid>
+		<description>This issue should now be resolved. Thank you for your patience.</description>
+		<responseTime>200</responseTime>
+		<pubDate>Thu, 04 Nov 2021 00:25:48 GMT</pubDate>
+	</item>
+	<item>
+		<title>[Resolved]: Platform Status</title>
+		<link>"http://imbobo.org.za/rss/outage-events-feed.rss</link>
+		<guid isPermaLink="false">Platform Status update at: Thu, 04 Nov 2021 00:25:48 GMT</guid>
+		<description>This issue should now be resolved. Thank you for your patience.</description>
+		<responseTime>139</responseTime>
+		<pubDate>Thu, 04 Nov 2021 00:25:48 GMT</pubDate>
+	</item>
+	<item>
+		<title>[Resolved]: Platform Status</title>
+		<link>"http://imbobo.org.za/rss/outage-events-feed.rss</link>
+		<guid isPermaLink="false">Platform Status update at: Thu, 04 Nov 2021 00:25:48 GMT</guid>
+		<description>This issue should now be resolved. Thank you for your patience.</description>
+		<responseTime>239</responseTime>
+		<pubDate>Thu, 04 Nov 2021 00:25:48 GMT</pubDate>
+	</item>
+  </channel>
+
+  </rss>
+  
