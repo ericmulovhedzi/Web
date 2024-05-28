@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="402"
+   height="602"
+   id="svg2986">
+  <metadata
+     id="metadata3653">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs2988" />
+  <rect
+     width="402"
+     height="602"
+     x="0"
+     y="0"
+     id="background"
+     style="fill:#007b30;stroke:none" />
+  <rect
+     width="380"
+     height="580"
+     rx="50"
+     ry="50"
+     x="11"
+     y="11"
+     id="border"
+     style="fill:none;stroke:#ffffff;stroke-width:20" />
+  <path
+     d="m 153.49763,166 0,-111.723 16.032,0 31.897,72.979 31.563,-72.979 16.032,0 0,111.723 -17.034,0 0,-69.639 -0.334,0 -23.38,53.774 -14.195,0 -23.38,-53.774 -0.334,0 0,69.639 -16.867,0"
+     id="prefix"
+     style="fill:#ffe200;stroke:none" />
+  <g
+     id="number"
+     style="fill:#ffe200;stroke:none">
+    <path
+       d="m 131.45697,406.616 0,-175.252 -29.568,21.252 0,-31.108 29.568,-21.56 29.876,0 0,206.668 -29.876,0"
+       id="path3656" />
+    <path
+       d="m 279.11409,346.864 0,-87.472 c 0,-20.01998 -11.70401,-31.724 -28.952,-31.724 -18.47998,0 -28.952,11.70402 -28.952,31.724 l 0,87.472 c 0,20.01998 10.47202,31.724 28.952,31.724 17.24799,0 28.952,-11.70402 28.952,-31.724 m -87.472,1.848 0,-91.168 c 0,-18.78798 5.85202,-33.57201 17.556,-43.736 12.01199,-10.47199 25.56402,-15.708 40.964,-15.708 14.78399,0 28.33602,5.23601 40.348,15.708 12.01199,10.16399 18.172,24.94802 18.172,43.736 l 0,91.168 c 0,18.78798 -6.16001,33.57201 -18.172,43.736 -12.01198,10.16399 -25.56401,15.4 -40.348,15.4 -15.09198,0 -28.95201,-5.23601 -40.964,-15.4 -11.70398,-10.16399 -17.556,-24.64002 -17.556,-43.736"
+       id="path3658" />
+  </g>
+</svg>
