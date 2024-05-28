@@ -1,4 +1,4 @@
-**Mbobo App NPC**
+**Mbobo App NPO**
 ===
 
 Mbobo App NPC, an OVH Self Driving Car company initiative that aims to facilitate a smooth and seamless transition into the fourth industrial revolution 4IR self driving cars technology while promoting road networks safety and efficiency for all road users.
