@@ -17,4 +17,5 @@ As a multidisciplinary social development and artificial intelligence AI non-pro
 
 **https://imbobo.org.za/**
 
-![My Picture](Screen-Shot-Imbobo-2024-05-29.png)
+
+![My Picture](images/Screen-Shot-Imbobo-2024-05-29.png)
