@@ -1,5 +1,6 @@
 <?
 //require_once('inc/connection.php');
+echo "--1";
 error_reporting(E_ALL);
 ini_set('display_errors', 1);
 ignore_user_abort(true);set_time_limit(0);ini_set('memory_limit','-1'); // Run forever and with no memory limit
